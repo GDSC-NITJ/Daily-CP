@@ -1,0 +1,153 @@
+{
+  "Day Count": 15,
+  "Day 1": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/length-of-last-word",
+      "Q2": "https://codeforces.com/problemset/problem/1367/A "
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/merge-intervals",
+      "Q2": "https://codeforces.com/problemset/problem/1253/A"
+    }
+  },
+  "Day 2": {
+    "begineer": {
+      "Q1": " https://leetcode.com/problems/search-insert-position",
+      "Q2": "https://codeforces.com/problemset/problem/1445/A"
+    },
+    "intermediate": {
+      "Q1": "https://codeforces.com/problemset/problem/1579/B",
+      "Q2": "https://leetcode.com/problems/container-with-most-water"
+    }
+  },
+  "Day 3": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/remove-element/",
+      "Q2": "https://codeforces.com/problemset/problem/1592/A"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Q2": "https://codeforces.com/problemset/problem/1594/C"
+    }
+  },
+  "Day 4": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/happy-number",
+      "Q2": "https://codeforces.com/problemset/problem/1581/A"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/valid-sudoku/",
+      "Q2": "https://codeforces.com/problemset/problem/1575/A"
+    }
+  },
+  "Day 5": {
+    "begineer": {
+      "Q1": " https://codeforces.com/problemset/problem/1454/A",
+      "Q2": "https://codeforces.com/problemset/problem/1467/A"
+    },
+    "intermediate": {
+      "Q1": " https://leetcode.com/problems/gas-station",
+      "Q2": "https://codeforces.com/problemset/problem/1511/B"
+    }
+  },
+  "Day 6": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+      "Q2": "https://codeforces.com/contest/1420/problem/A"
+    },
+    "intermediate": {
+      "Q1": " https://leetcode.com/problems/valid-tic-tac-toe-state/",
+      "Q2": "https://atcoder.jp/contests/abc216/tasks/abc216_d"
+    }
+  },
+  "Day 7": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/valid-parentheses/",
+      "Q2": "https://codeforces.com/problemset/problem/677/A"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/count-and-say/",
+      "Q2": "https://codeforces.com/problemset/problem/1343/A"
+    }
+  },
+  "Day 8": {
+    "begineer": {
+      "Q1": " https://leetcode.com/problems/maximum-subarray/",
+      "Q2": " https://codeforces.com/problemset/problem/1537/B"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/3sum/",
+      "Q2": " https://codeforces.com/problemset/problem/1512/D"
+    }
+  },
+  "Day 9": {
+    "begineer": {
+      "Q1": " https://leetcode.com/problems/plus-one/",
+      "Q2": "- https://codeforces.com/problemset/problem/1573/A"
+    },
+    "intermediate": {
+      "Q1": " https://leetcode.com/problems/trapping-rain-water/",
+      "Q2": "https://codeforces.com/problemset/problem/1592/B"
+    }
+  },
+  "Day 10": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "Q2": "https://codeforces.com/contest/266/problem/A"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/",
+      "Q2": "https://codeforces.com/problemset/problem/1598/A"
+    }
+  },
+  "Day 11": {
+    "begineer": {
+      "Q1": "https://leetcode.com/problems/three-divisors/",
+      "Q2": "https://codeforces.com/problemset/problem/1011/A"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/",
+      "Q2": "https://codeforces.com/problemset/problem/1598/A"
+    }
+  },
+  "Day 12": {
+    "begineer": {
+      "Q1": " https://leetcode.com/problems/minimum-moves-to-convert-string/",
+      "Q2": "https://codeforces.com/problemset/problem/1433/C"
+    },
+    "intermediate": {
+      "Q1": " https://codeforces.com/problemset/problem/1430/C",
+      "Q2": "https://codeforces.com/problemset/problem/1520/D"
+    }
+  },
+  "Day 13": {
+    "begineer": {
+      "Q1": " https://codeforces.com/contest/1352/problem/A",
+      "Q2": " https://leetcode.com/problems/find-unique-binary-string/"
+    },
+    "intermediate": {
+      "Q1": " https://leetcode.com/problems/task-scheduler/",
+      "Q2": "https://leetcode.com/problems/sqrtx/"
+    }
+  },
+  "Day 14": {
+    "begineer": {
+      "Q1": "https://codeforces.com/problemset/problem/935/A",
+      "Q2": "https://leetcode.com/problems/isomorphic-strings/"
+    },
+    "intermediate": {
+      "Q1": "https://codeforces.com/problemset/problem/1593/A",
+      "Q2": "https://leetcode.com/problems/remove-k-digits/"
+    }
+  },
+  "Day 15": {
+    "begineer": {
+      "Q1": "https://codeforces.com/contest/1594/problem/A",
+      "Q2": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    "intermediate": {
+      "Q1": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+      "Q2": "https://codeforces.com/contest/1593/problem/C"
+    }
+  }
+}
